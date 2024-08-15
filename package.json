@@ -18,8 +18,9 @@
     "@wdio/mocha-framework": "^8.40.2",
     "@wdio/selenium-standalone-service": "^8.14.0",
     "@wdio/spec-reporter": "^8.39.0",
-    "allure-commandline": "^2.30.0"
-
+    "chromedriver": "^127.0.3",
+    "geckodriver": "^4.4.2",
+    "wdio-geckodriver-service": "^5.0.2"
   },
   "dependencies": {
     "mocha": "^10.7.3",
